@@ -23,7 +23,7 @@ tiers:
     replicas: 1
     containers:
     - name: app
-      image: geminisystems/sample-app:latest
+      image: anilkumar7/testapp:latest
       environment:
         - MYSQL_USER: root
           MYSQL_PASSWORD: admin
