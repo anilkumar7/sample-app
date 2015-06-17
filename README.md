@@ -1,1 +1,2 @@
-A simple PHP based app
+
+Note: A simple PHP based app
